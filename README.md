@@ -53,9 +53,9 @@ python main.py --load_checkpoint --render
 
 ## References
 
-* [Gym] (https://gym.openai.com/docs/)
-* [Gym Pong] (https://gym.openai.com/envs/Pong-v0/)
-* [Original Pong Project](https://github.com/mrahtz/tensorflow-rl-pong)
+* [Gym] (https://gym.openai.com/docs)
+* [Gym Pong] (https://gym.openai.com/envs/Pong-v0)
+* [Original Pong Project] (https://github.com/mrahtz/tensorflow-rl-pong)
 
 ## Credits
 
