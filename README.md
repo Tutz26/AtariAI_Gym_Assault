@@ -23,11 +23,11 @@ Also you can install these using the command
 pip install -r requirements.txt
 ```
 
-You will need Python 3.8 installed
+You will need Python 3.8
 
 ### Instructions 
 
-To run the project you might use the following command (That will start to train the AI to play pong from scratch)
+To run the project you may use the following command (That will start to train the AI to play pong from scratch)
 
 ```
 python main.py
