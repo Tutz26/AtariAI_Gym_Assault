@@ -59,6 +59,6 @@ python main.py --load_checkpoint --render
 
 ## Credits
 
-* **Elizabeth Gandara** - *Project recomendation and emotional support* - [eildgc](https://github.com/eildgc)
+* **Elizabeth Gandara** - *Project recomendation, tecnhical and emotional support* - [eildgc](https://github.com/eildgc)
 * **Hiram Hernandez** - *Tutoring and technical support* - [TacoPlox](https://github.com/TacoPlox)
 
